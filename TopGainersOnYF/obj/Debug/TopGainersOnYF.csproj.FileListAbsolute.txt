@@ -1,0 +1,11 @@
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\TopGainersOnYF.exe.config
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\TopGainersOnYF.exe
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\TopGainersOnYF.pdb
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\obj\Debug\TopGainersOnYF.csprojAssemblyReference.cache
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\obj\Debug\TopGainersOnYF.csproj.CoreCompileInputs.cache
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\obj\Debug\TopGainersOnYF.csproj.CopyComplete
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\obj\Debug\TopGainersOnYF.exe
+C:\Users\joshw\source\repos\TopGainersOnYF\TopGainersOnYF\obj\Debug\TopGainersOnYF.pdb
